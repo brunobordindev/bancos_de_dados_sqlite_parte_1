@@ -8,4 +8,4 @@ Conceitos básicos do SQLite:
 - recuperar os indicices da tabela (as colunas do nome e idade)
 - iniciar cursor do zero
 
-<img src="https://user-images.githubusercontent.com/72177982/212303092-209d1bf3-49ea-41dd-9635-b24319ef376b.jpg" width="75%">
+<img src="https://user-images.githubusercontent.com/72177982/212303092-209d1bf3-49ea-41dd-9635-b24319ef376b.jpg" width="95%">
